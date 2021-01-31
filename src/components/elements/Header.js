@@ -2,7 +2,7 @@ import React from 'react';
 
 import RMDBLogo from '../../assets/images/reactMovie_logo.png';
 import TMDBLobo from '../../assets/images/tmdb_logo.svg';
-import {StyledHeader, StyledRMDBLogo, StyledTMDBLogo} from '../../assets/styles/styledHeader';
+import { StyledHeader, StyledRMDBLogo, StyledTMDBLogo } from '../../assets/styles/StyledHeader';
 
 
 const Header = () => {

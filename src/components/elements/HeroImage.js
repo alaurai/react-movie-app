@@ -1,8 +1,18 @@
 import React from 'react';
 
-const HeroImage = () => {
+import { StyledHeroImage } from '../../assets/styles/StyledHeroImage';
+
+const HeroImage = ({ image, title, text }) => {
   return(
-    <div>Hero Image</div>
+    <StyledHeroImage image={image}>
+      <div className="heroimage-content">
+        <div className="heroimage-text">
+          <h1>{title}</h1>
+          <p>{text}</p>
+        </div>
+
+      </div>]
+    </StyledHeroImage>
   )
 }
 
