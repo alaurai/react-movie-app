@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { API_URL, API_KEY, POPULAR_BASE_URL } from '../../config/api';
+import { POPULAR_BASE_URL } from '../../config/api';
 
 
 export const useHomeFetch = () => {
@@ -24,7 +24,7 @@ export const useHomeFetch = () => {
                 : [...result.results],
         heroImage: prev.heroImage || result.results[0],
         currentPage: result.page,
-        totalPage: result.total_pages,
+        totalPages: result.total_pages,
       }))
     }catch(error){
       setError(true);
@@ -34,7 +34,7 @@ export const useHomeFetch = () => {
   }
 
   useEffect(() => {
-    fetchMovies(POPULAR_BASE_URL );
+    fetchMovies(POPULAR_BASE_URL);
   },[])
 
   return [{ state, loading, error }, fetchMovies];
