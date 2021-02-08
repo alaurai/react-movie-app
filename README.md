@@ -12,6 +12,13 @@
 
 ## :computer: Project
 
+<strong> You can view the app site here:</strong>
+* https://react-movie-app-al.netlify.app/
+
+<h2>
+  <img alt="app screenshot" src=".github/react-movie.png"/>
+</h2>
+
 ## :rocket: Technologies
 
 * [ReactJS](https://reactjs.org/)
