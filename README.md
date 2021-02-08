@@ -20,6 +20,8 @@
 
 * [TMDB API](https://www.themoviedb.org/)
 
+* [Netlify](https://www.netlify.com/) - deploy
+
 ## :tada: Features
 
 ## :construction_worker: How to run
