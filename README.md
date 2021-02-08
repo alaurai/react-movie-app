@@ -10,14 +10,14 @@
   <a href="#memo-license">License</a>
 </p>
 
+<p>
+  <img alt="app screenshot" src=".github/react-movie.png"/>
+</p>
+
 ## :computer: Project
 
 <strong> You can view the app site here:</strong>
 * https://react-movie-app-al.netlify.app/
-
-<p>
-  <img alt="app screenshot" src=".github/react-movie.png"/>
-</p>
 
 ## :rocket: Technologies
 
