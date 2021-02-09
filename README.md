@@ -31,6 +31,10 @@
 
 ## :tada: Features
 
+* Fetches from the API  the most popular movies of the moment
+
+* Search function
+
 ## :construction_worker: How to run
 
 ```bash
