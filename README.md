@@ -51,4 +51,8 @@ $ yarn install
 $ yarn start
    
 ```
+> <strong> Note: </strong> You need to create an account on the [TMDB](https://www.themoviedb.org/) and get your API key. Then it's necessary to create a .env file at the root of your project and set a variable name for the key starting with REACT_APP_</br>
+For example: ```REACT_APP_API_KEY=yourapikey4re47914ddcfb17```
+
+
 ## :closed_book: License
