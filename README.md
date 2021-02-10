@@ -56,3 +56,7 @@ For example: ```REACT_APP_API_KEY=yourapikey4re47914ddcfb17```
 
 
 ## :closed_book: License
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
+
+---
+Made with ♥ by Anna Laura - [alauraivani](https://github.com/alauraivani)
