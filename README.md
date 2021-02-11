@@ -35,6 +35,8 @@
 
 * Search function
 
+* Routing
+
 ## :construction_worker: How to run
 
 ```bash
